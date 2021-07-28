@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 I'm Rui Pires. A portuguese college student looking for constant creative expression.
 - 🗺️ I'm currently diving into procedural generation and roguelike development
-- 🔊 I'm looking forward to dive into DSP and audio plugin development
+- 🔊 I'm looking forward to look into DSP and audio plugin development
 - 💻 My favourite programming languages are C/C++ and Python
 - 🎸 I'm a big music fan and a musician, yet to record anything worth listening to
