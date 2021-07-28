@@ -20,5 +20,5 @@ I'm Rui Pires. A portuguese college student looking for constant creative expres
 - 🔍 Other programming interests include formal language parsing, natural language processing, software development and systems programming
 - 📖 I'm always eager to learn and challenge myself
 - 🎸 I'm also a big music fan and a musician, yet to record anything worth listening to
-- 🎹 As a musician, I'm mostly interested prog rock/metal, jazz fusion and funk, classical music and game/movie soundtracks
+- 🎹 As a musician, I'm mostly interested prog rock/metal, jazz fusion, classical music and game/movie soundtracks
 - 🥁 I play the drums, guitar, bass, piano and synth. I also enjoy orchestra composition and I'm learning music production
