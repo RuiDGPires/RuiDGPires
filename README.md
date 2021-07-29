@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Rui Pires. A portuguese college student looking for constant creative expression.
+I'm Rui Pires, a portuguese college student looking for constant creative expression.
 - 🗺️ I'm currently diving into procedural generation and roguelike development
 - 🔊 I'm looking forward to learning DSP and audio plugin development
 - 🔍 Other programming interests include language processing, software development and systems programming
