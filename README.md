@@ -9,3 +9,5 @@ I'm Rui Pires, a portuguese college student looking for constant creative expres
 - 🎹 As a musician, I'm mostly interested prog rock/metal, jazz fusion, classical music and game/movie soundtracks
 - 🥁 I play the drums, guitar, bass, piano and synth. I also enjoy orchestra composition and I'm learning music production
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiDGPires&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
