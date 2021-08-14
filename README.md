@@ -10,4 +10,4 @@ I'm Rui Pires, a portuguese college student looking for constant creative expres
 - 🥁 I play the drums, guitar, bass, piano and synth. I also enjoy orchestra composition and I'm learning music production
 
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiDGPires&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiDGPires&layout=compact)
